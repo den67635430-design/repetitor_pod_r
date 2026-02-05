@@ -35,6 +35,9 @@
     --success: 142 76% 36%;
     --success-foreground: 0 0% 100%;
     
+    --warning: 45 93% 47%;
+    --warning-foreground: 26 83% 14%;
+    
     --radius: 1rem;
     
     /* Custom gradients */
