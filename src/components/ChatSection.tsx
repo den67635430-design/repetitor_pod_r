@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect } from "react";
 import { Send } from "lucide-react";
-import { Message, Subject } from "@/src/types";
+import { Message, Subject } from "../types";
 import { getTutorResponse } from "../geminiService";
 
 const ChatSection: React.FC = () => {
